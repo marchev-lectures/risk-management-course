@@ -1,0 +1,17 @@
+*.pptx
+*.ppt
+*.docx
+*.pdf
+sources/
+extracted/
+reports/
+manifests/sources.json
+.tools/
+.quarto/
+_book/
+__pycache__/
+.venv/
+.env*
+
+/.quarto/
+**/*.quarto_ipynb

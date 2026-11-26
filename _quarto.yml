@@ -1,0 +1,23 @@
+project:
+  type: book
+  output-dir: _book
+book:
+  title: "Някои идеи за риска"
+  author: "доц. д-р Ангел Марчев"
+  search: true
+  sidebar:
+    style: docked
+    collapse-level: 2
+  chapters:
+    - index.qmd
+    - part: "Някои идеи за риска"
+      chapters:
+        - chapters/introduction.qmd
+        - chapters/risk.qmd
+lang: bg
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    number-sections: false
+    toc: true
+    toc-depth: 2

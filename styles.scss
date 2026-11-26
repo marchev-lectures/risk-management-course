@@ -1,0 +1,13 @@
+/*-- scss:defaults --*/
+$primary: #195d61;
+$link-color: #155c62;
+$body-color: #23353e;
+$sidebar-bg: #f1f5f4;
+$headings-font-family: Georgia, serif;
+/*-- scss:rules --*/
+main h2 { border-bottom: 1px solid #cbd9d7; padding-bottom: .35rem; }
+main img.slide { border: 1px solid #d3dcda; height: auto; width: 100%; }
+main p { line-height: 1.65; overflow-wrap: anywhere; }
+@media (max-width: 575px) {
+  main .anchored > .anchorjs-link { display: none; }
+}

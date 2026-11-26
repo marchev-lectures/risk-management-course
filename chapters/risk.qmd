@@ -1,0 +1,233 @@
+# Какво е РИСК?
+
+## Какво е РИСК? {#slide-018}
+
+<p>Революционна идея, отбелязваща границата</p>
+
+<p>между епохата на съвременния прогрес и</p>
+
+<p>“мрачните” векове на миналото</p>
+
+<p>Философия за обяснение на риска:</p>
+
+<p>Количествен: “най-добрите решения са базирани на числа”</p>
+
+<p>ИЛИ</p>
+
+<p>Психологически: “решенията се базират</p>
+
+<p>на очакванията за неопределеното</p>
+
+<p>бъдеще”</p>
+
+![Какво е РИСК? · слайд 18](../assets/images/slide-018.png){.slide}
+
+## Angel Marchev, Jr. angel.marchev@yahoo.com {#slide-019}
+
+<p>The spirit of the definition of risk is captured best by the Chinese symbols for risk, which are reproduced here.</p>
+
+<p>The first symbol is for “danger”, while the second is for “opportunity”, making risk a mix of danger and opportunity.</p>
+
+<p>It illustrates very clearly the tradeoff that every investor and business has to make – between the higher rewards that come with the opportunity and the higher risk that has to be borne as a consequence of the danger.</p>
+
+<p>Aswath Damodaran</p>
+
+<p>(“INVESTMENT VALUATION”)</p>
+
+![Angel Marchev, Jr. angel.marchev@yahoo.com · слайд 19](../assets/images/slide-019.png){.slide}
+
+## Етимология {#slide-020}
+
+<p>Ριζα (gr. “riza”) - корен, по-късно използван в Латински език за “препятствие”</p>
+
+<p>risicum (lat.) специфично юридическо понятие за загуба и повреда</p>
+
+<p>&quot;رزق&quot; (arab. “rizk”) – да търся успех (лат. rischio, riezgo)</p>
+
+<p>risicare (it.) – да смея, посмявам</p>
+
+![Етимология · слайд 20](../assets/images/slide-020.png){.slide}
+
+## Какво е РИСК? {#slide-021}
+
+<p>Professor Risk</p>
+
+<p>https://www.youtube.com/watch?v=a1PtQ67urG4</p>
+
+![Какво е РИСК? · слайд 21](../assets/images/slide-021.png){.slide}
+
+<https://www.youtube.com/watch?v=a1PtQ67urG4>
+
+## Какво е без-РИСК? {#slide-022}
+
+![Какво е без-РИСК? · слайд 22](../assets/images/slide-022.png){.slide}
+
+## What is a Risk? {#slide-023}
+
+<p>A risk is ANYTHING that may affect the achievement of an organization’s objectives.</p>
+
+<p>It is the UNCERTAINTY that surrounds future events and outcomes.</p>
+
+<p>It is the expression of the likelihood and impact of an event with the potential to influence the achievement of an organization’s objectives.</p>
+
+![What is a Risk? · слайд 23](../assets/images/slide-023.png){.slide}
+
+## Alternatively … {#slide-024}
+
+<p>Risk is a potential event with negative consequences that had not happened yet</p>
+
+<p>Could also be an event with positive consequences</p>
+
+<p>A possibility of loss – not the loss itself</p>
+
+<p>A source of problem</p>
+
+<p>Find the root cause and not the leaves</p>
+
+<p>Something that makes the project special</p>
+
+<p>In the widest sense, everything is a risk</p>
+
+<p>Helps identify better ways of handling problems</p>
+
+<p>23</p>
+
+![Alternatively … · слайд 24](../assets/images/slide-024.png){.slide}
+
+## Key Terms {#slide-025}
+
+<p>Risk Tolerance – The amount of acceptable risk</p>
+
+<p>Risk Adverse – Someone that does not want to take risks</p>
+
+<p>Risk Factors</p>
+
+<p>Probability of occurrence</p>
+
+<p>Impact of event</p>
+
+<p>Range of outcomes</p>
+
+<p>Timing of event</p>
+
+![Key Terms · слайд 25](../assets/images/slide-025.png){.slide}
+
+## Categorizing Risk – Comprehensive {#slide-026}
+
+<p>Political  or Reputational Risk</p>
+
+<p>Financial Risk</p>
+
+<p>Service Delivery or Operational Risk</p>
+
+<p>People / HR Risk</p>
+
+<p>Information/Knowledge Risk</p>
+
+<p>Strategic / Policy Risk</p>
+
+<p>Stakeholder Satisfaction / Public Perception Risk</p>
+
+<p>Legal / Compliance Risk</p>
+
+<p>Technology Risk</p>
+
+<p>Governance / Organizational Risk</p>
+
+<p>Privacy Risk</p>
+
+<p>Security Risk</p>
+
+<p>Equity Risk</p>
+
+![Categorizing Risk – Comprehensive · слайд 26](../assets/images/slide-026.png){.slide}
+
+## Diversifiable vs Non Diversifiable {#slide-027}
+
+<p>Diversifiable Risk</p>
+
+<p>Non-diversifiable Risk</p>
+
+<p>Risk that can be eliminated through diversification.</p>
+
+<p>Also called Unsystematic Risk or controllable risk.</p>
+
+<p>The risk inherent to the entire market or entire market segment.</p>
+
+<p>Also known as &quot;systematic risk&quot; or &quot;market risk.”</p>
+
+<p>It results from the occurrence of random events such as labor strikes, lawsuits, or loss of key accounts.</p>
+
+<p>Business, liquidity, and default risks fall into this category.</p>
+
+<p>It is assumed that any investor can create a portfolio in which this type of risk is completely eliminated through diversification.</p>
+
+<p>Interest rates, recession and wars all represent sources of systematic risk because they will affect the entire market and cannot be avoided through diversification.</p>
+
+<p>Whereas this type of risk affects a broad range of securities, unsystematic risk affects a very specific group of securities or an individual security.</p>
+
+<p>Systematic risk can be mitigated only by being hedged.</p>
+
+![Diversifiable vs Non Diversifiable · слайд 27](../assets/images/slide-027.png){.slide}
+
+<http://www.answers.com/topic/unsystematic-risk>
+
+## Basic sources of risk &amp; uncertainty {#slide-028}
+
+<p>Known knowns (no risk/uncertainty)</p>
+
+<p>Facts, outcomes or scenarios that we know with absolute certainty, based on deterministic processes</p>
+
+<p>Unknown knowns</p>
+
+<p>Certain facts that others know but we don’t</p>
+
+<p>Based on information asymmetry or poor communication</p>
+
+<p>Known unknowns</p>
+
+<p>Potential facts, outcomes, scenarios that we are aware of, but don’t yet know with any certainty</p>
+
+<p>Based on stochastic processes and known probability laws</p>
+
+<p>Unknown unknowns</p>
+
+<p>Potential facts, outcomes or scenarios that we are not yet aware of, have not even considered</p>
+
+<p>Often rare and extreme events or outliers (“black swans”), not considered due to lack of experience/imagination</p>
+
+![Basic sources of risk &amp; uncertainty · слайд 28](../assets/images/slide-028.png){.slide}
+
+## Variability {#slide-029}
+
+<p>Uncertainty occurs if at least two possible outcomes can arise out of an event.</p>
+
+<p>If one possible outcome, then the outcome is known for certain, so there is no risk.</p>
+
+![Variability · слайд 29](../assets/images/slide-029.png){.slide}
+
+## Variability {#slide-030}
+
+<p>House - two possibilities (in relation to fire):</p>
+
+<p>Catch fire  or 		uncertainty exists</p>
+
+<p>May not catch fire</p>
+
+<p>If the house-owner certain that his house will not catch fire because it was entirely built using fire-resistant materials, then there is no risk associated with fire.</p>
+
+![Variability · слайд 30](../assets/images/slide-030.png){.slide}
+
+## Variability {#slide-031}
+
+<p>Risk exists if there is uncertainty about the outcome of an event or an activitiy.</p>
+
+<p>The greater the number of outcomes from an event, the greater would be the uncertainty and thus the risk.</p>
+
+<p>E.g. fixed-return investment vs stock investment</p>
+
+![Variability · слайд 31](../assets/images/slide-031.png){.slide}
+
+## Какво е РИСК? {#slide-032}
+
+![Какво е РИСК? · слайд 32](../assets/images/slide-032.png){.slide}

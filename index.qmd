@@ -1,0 +1,19 @@
+# Някои идеи за риска
+
+## Слайд 1 {#slide-001}
+
+![Слайд 1 · слайд 1](assets/images/slide-001.png){.slide}
+
+## Top 10 Jumps {#slide-002}
+
+<p>https://www.youtube.com/watch?v=qqhlfz9GQPE</p>
+
+![Top 10 Jumps · слайд 2](assets/images/slide-002.png){.slide}
+
+<https://www.youtube.com/watch?v=qqhlfz9GQPE>
+
+## Някои идеи за риска {#slide-003}
+
+<p>доц. д-р Ангел Марчев</p>
+
+![Някои идеи за риска · слайд 3](assets/images/slide-003.png){.slide}
