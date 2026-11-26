@@ -11,3 +11,4 @@ main p { line-height: 1.65; overflow-wrap: anywhere; }
 @media (max-width: 575px) {
   main .anchored > .anchorjs-link { display: none; }
 }
+main h2 { overflow-wrap: anywhere; }
