@@ -1,0 +1,20 @@
+<!doctype html><html lang="bg"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><style>body{font:1.15rem/1.6 system-ui;max-width:54rem;margin:3vw auto;padding:1rem;color:#234}ruffle-player{width:100%;aspect-ratio:640/270;height:auto}button{padding:.7em}</style><title>Дисперсия</title><h1>Дисперсия</h1><button id="play-variance" type="button">▶ Пусни симулацията</button>
+<div id="variance"></div>
+
+<script>
+document.querySelector('#play-variance').onclick = async function () {
+ const button = this;
+ button.disabled = true;
+ try {
+   window.RufflePlayer = window.RufflePlayer || {};
+   window.RufflePlayer.config = {autoplay:'on', allowScriptAccess:false, allowNetworking:'none'};
+   const script = document.createElement('script');
+   script.src = './player/ruffle.js';
+   await new Promise((resolve,reject)=>{script.onload=resolve;script.onerror=reject;document.head.append(script)});
+   const player = window.RufflePlayer.newest().createPlayer();
+   document.querySelector('#variance').replaceChildren(player);
+   await player.ruffle().load('./variance44.swf');
+   button.hidden = true;
+ } catch { button.disabled=false; button.textContent='Опитай отново'; }
+};
+</script>
